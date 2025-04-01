@@ -49,7 +49,7 @@ class Slide08 extends StatelessWidget {
                           text: 'Listener',
                           style: TextStyle(fontWeight: FontWeight.bold),
                         ),
-                        TextSpan(text: 'Listener widget to detect your cursor or finger movement.'),
+                        TextSpan(text: ' widget to detect your cursor or finger movement.'),
                       ],
                     ),
                   ),

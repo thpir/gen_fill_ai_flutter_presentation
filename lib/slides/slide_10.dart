@@ -64,7 +64,7 @@ class Slide10 extends StatelessWidget {
                         color: Colors.black,
                       ),
                       children: <TextSpan>[
-                        TextSpan(text: 'Make sure both mask and image have the same dimensions!'),
+                        TextSpan(text: 'Ensure that both the mask and the image have the same dimensions.'),
                       ],
                     ),
                   ),

@@ -93,7 +93,7 @@ class Slide09 extends StatelessWidget {
                           text: 'sketches are copied',
                           style: TextStyle(fontWeight: FontWeight.bold),
                         ),
-                        TextSpan(text: 'copied from the MaskPainter layer to the Mask layer and the Sketch its '),
+                        TextSpan(text: ' from the MaskPainter layer to the Mask layer and the Sketch its '),
                         TextSpan(
                           text: 'color property is changed to white',
                           style: TextStyle(fontWeight: FontWeight.bold),
